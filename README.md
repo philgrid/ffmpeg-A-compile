@@ -2,6 +2,8 @@
 
 FFmpeg  --enable-static AND ALL WORK
 NOT FAULTS OF COMPILATION
+
+JUST /DOC NEED MAKE NICE
 ==========
 
 FFmpeg is a collection of libraries and tools to process multimedia content
