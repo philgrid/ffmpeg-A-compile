@@ -1,4 +1,4 @@
-FFmpeg README --enable-static AND ALL WORK
+FFmpeg README --enable-static ETC AND ALL WORK
 NOT FAULTS OF COMPILATION
 ==========
 
